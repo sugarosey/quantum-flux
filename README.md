@@ -1,4 +1,4 @@
-# Time Echo Platformer
+# Quantum - flux
 
 A fast TypeScript + Vite + Kaboom.js prototype built for a 24hr hackathon. Core mechanic: record your actions for 5 seconds, then spawn a time-echo clone that replays them to help solve platforming puzzles (e.g., hold pressure plates to open doors).
 
